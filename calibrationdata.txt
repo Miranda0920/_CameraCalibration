@@ -1,0 +1,4 @@
+/home/mitc/CLionProjects/CameraCalibration/images/1.jpg
+/home/mitc/CLionProjects/CameraCalibration/images/2.jpg
+/home/mitc/CLionProjects/CameraCalibration/images/3.jpg
+/home/mitc/CLionProjects/CameraCalibration/images/4.jpg
